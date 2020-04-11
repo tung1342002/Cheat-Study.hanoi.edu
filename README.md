@@ -15,3 +15,5 @@ HƯỚNG DẪN:
 *Bước 3: Ở trang làm bài thi, các bạn ấn F12 -> Console rồi nhập code trong file pickRightAnswer.js vào rồi ấn Enter, lúc này code sẽ tự điền hết đáp án đúng cho bạn.
  
 * Chú ý: Nếu bạn muốn điểm thấp hơn thì sau khi code đã nhập đáp án đúng cho bạn, bạn có thể chọn lại đáp án sai bao nhiêu câu mà bạn muốn để điểm thấp hơn :)) 
+
+* Nếu có vấn đề gì với đề, các bạn hãy comment số đề + mã đề ở phần issues để mình fix.
