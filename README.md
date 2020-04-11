@@ -1,6 +1,8 @@
 # Cheat-Math-Study.edu
-Code cheat tất cả đề toán trên study.edu siêu đơn giản, ngắn gọn from Quân Đặng with luv <3
+Code cheat tất cả đề toán trên study.edu siêu đơn giản, ngắn gọn from Quân Đặng lớp 12 with luv <3
 
+* Trước mình cũng đã có một bạn tên là RedQueen làm code cheat web đáp án của sở trên github, nhưng do khối của bạn k có môn toán nên code của bạn ấy k áp dụng đc với các đề toán do đề toán có cấu trúc riêng, vì thế mình đã tự code thêm vài dòng code nho nhỏ để giúp các bạn làm toán 1 cách nhanh vcl ;D.
+* Mình cũng đã viết 1 bộ code tối ưu hơn dùng cho các môn còn lại nhưng mình chỉ giữ để mình và lớp mình dùng riêng nên các bạn có thể sang github của bạn kia dùng code bạn ấy. :))
 
 HƯỚNG DẪN:
 * Trước tiên các bạn phải bắt buộc cài add-on này vào Chrome hoặc Cốc Cốc:
