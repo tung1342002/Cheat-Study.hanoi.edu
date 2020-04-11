@@ -3,6 +3,7 @@ Code cheat tất cả đề toán trên study.edu siêu đơn giản, ngắn g�
 
 * Trước mình cũng đã có một bạn tên là RedQueen làm code cheat web đáp án của sở trên github, nhưng do khối của bạn k có môn toán nên code của bạn ấy k áp dụng đc với các đề toán do đề toán có cấu trúc riêng, vì thế mình đã tự code thêm vài dòng code nho nhỏ để giúp các bạn làm toán 1 cách nhanh vcl ;D.
 * Mình cũng đã viết 1 bộ code tối ưu hơn dùng cho các môn còn lại nhưng mình chỉ giữ để mình và lớp mình dùng riêng nên các bạn có thể sang github của bạn kia dùng code bạn ấy. :))
+* Code của mình sẽ cho bạn điểm cao ngay lần làm đầu tiên chứ không cần phải đánh đổi 1 lần làm điểm 0 để lần làm thứ 2 mới đc điểm 10 như code của bạn RedQueen, nên mình khuyên dùng code của mình nếu như thầy cô của bạn bảo chỉ lấy đầu điểm thi lần 1 trên web.
 
 HƯỚNG DẪN:
 * Trước tiên các bạn phải bắt buộc cài add-on này vào Chrome hoặc Cốc Cốc:
