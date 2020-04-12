@@ -26,4 +26,14 @@ HƯỚNG DẪN:
 
 #2/Đề lớp 10, 11:
 
+*Bước 1: Vào đề thi cần làm, vào thi, xem mã đề là gì sau đó vào file "Mã đề toán lớp 11" để tìm đề, vào file "TestID.txt", tìm mã đề bạn đang làm, bạn sẽ thấy id của mã đề đó ở bên phải mã đề.
+
+*Bước 2: Mở link "http://study.hanoi.edu.vn/home/scoredetails?id=", thêm dãy số id vào ngay sau "?id=" rồi ấn Enter. (xong bước này nhớ kiểm tra xem phần "Mã đề thi" ở trang web mới bạn vừa mở xem có trùng vớii mã đề bạn đang làm không, nếu không trùng thì có thể bạn đã copy nhầm id của mã đề khác).
+
+*Bước 3: Ở trang web đã mở ở bước 2, F12 -> Console, copy code trong file "getAnswer.js" rồi Enter. Lúc này đáp án đúng sẽ được lưu vào bộ nhớ.
+
+*Bước 4: Chuyển sang tab bài thi bạn đang làm, F12 -> Console, copy code trong file "pickRightAnswer.js" rồi Enter. Lúc này tất cả đáp án đúng sẽ được chọn.
+
+
+* Chú ý: Nếu bạn muốn điểm thấp hơn thì sau khi code đã nhập đáp án đúng cho bạn, bạn có thể chọn lại đáp án sai bao nhiêu câu mà bạn muốn để điểm thấp hơn :)) 
 
