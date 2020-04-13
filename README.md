@@ -9,8 +9,8 @@ Code cheat tất cả đề toán trên study.edu siêu đơn giản, ngắn g�
 # HƯỚNG DẪN:
 * Trước tiên các bạn phải bắt buộc cài add-on này vào Chrome hoặc Cốc Cốc:
  https://chrome.google.com/webstore/detail/localstorage-manager/fkhoimdhngkiicbjobkinobjkoefhkap
-* Chú ý: Với đề toán lớp 12 thì dùng cách ở mục #1, còn đề lớp 10, 11 thì dùng ở cách ở mục #2.
-* Lưu ý: folder "Mã đề toán" chỉ chứa đề toán của lớp 12. Đề toán lớp 10 và 11 mình sẽ update dần dần.
+* Chú ý: Với đề toán lớp 12 thì dùng cách ở mục #1, còn đề lớp 11 thì dùng ở cách ở mục #2.
+* Lưu ý: folder "Mã đề toán" chỉ chứa đề toán của lớp 12. Đề toán lớp 11 mình sẽ update dần dần.
 
 ## /#0/Làm những môn trừ môn Toán
 
@@ -34,7 +34,7 @@ Code cheat tất cả đề toán trên study.edu siêu đơn giản, ngắn g�
 * Chú ý: Nếu bạn muốn điểm thấp hơn thì sau khi code đã nhập đáp án đúng cho bạn, bạn có thể chọn lại đáp án sai bao nhiêu câu mà bạn muốn để điểm thấp hơn :)) .
 
 
-## /#2/ Đề lớp 10, 11:
+## /#2/ Đề lớp 11:
 
 *Bước 1: Vào đề thi cần làm, vào thi, xem mã đề là gì sau đó vào file "Mã đề toán lớp 11" để tìm đề, vào file "TestID.txt", tìm mã đề bạn đang làm, bạn sẽ thấy id của mã đề đó ở bên phải mã đề.
 
