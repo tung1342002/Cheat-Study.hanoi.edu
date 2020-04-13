@@ -21,7 +21,8 @@ Code cheat tất cả đề toán trên study.edu siêu đơn giản, ngắn g�
    
 *Bước 3: Ấn “Bắt đầu làm bài” để vào làm bài thi, F12 -> Console -> sau đó nhập code trong file pickRightAnswer2.js rồi Enter.
 
-* Lưu ý: Code này dùng với môn Sinh và Hóa sẽ cho bạn điểm khoảng từ 8,8 -> 9,8. Với các môn Sử, Anh, Địa, GDCD thì sẽ cho bạn điểm 10, vì vậy khi làm mấy đề đó nếu bạn muốn điểm thấp hơn 10 thì chỉ cần khoanh lại mấy câu sau khi chạy code là đc, còn Sinh và Hóa thì k cần khoanh lại.
+* Lưu ý: Code này dùng với môn Sinh và Hóa sẽ cho bạn điểm khoảng từ 8,8 -> 9,8. Với các môn Sử, Anh, Địa, GDCD thì sẽ cho bạn điểm 10 (đa số là vậy), vì vậy khi làm mấy đề đó nếu bạn muốn điểm thấp hơn 10 thì chỉ cần khoanh lại mấy câu sau khi chạy code là đc, còn Sinh và Hóa thì k cần khoanh lại.
+* Chú ý: Có thể có vài đề mà code không tự điền đáp án 1 vài câu do cấu trúc đề hơi lỗi chút, chạy code xong các bạn nhớ kiểm tra lại xem các câu đã được điền hết chưa nhé.
 
  
 ## /#1/ Đề toán lớp 12 (folder Mã đề toán):
