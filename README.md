@@ -13,7 +13,7 @@ Code cheat tất cả đề toán trên study.edu siêu đơn giản, ngắn g�
 * Chú ý: Với các môn khác môn toán thì dùng cách ở mục /#0/, đề toán lớp 12 thì dùng cách ở mục /#1/, còn đề lớp 11 thì dùng ở cách ở mục /#2/.
 * Lưu ý: folder "Mã đề toán" chỉ chứa đề toán của lớp 12. Đề toán lớp 11 mình sẽ update dần dần.
 
-## /#0/Làm những môn trừ môn Toán
+## /#0/ Làm những môn trừ môn Toán
 
 *Bước 1: Vào đề cần làm, ấn “Vào thi” ( chưa ấn “Bắt đầu làm bài” vội nhé). Tìm đề bạn đang làm trong file "Mã đề các môn (trừ Toán)" rồi copy code bên trong.
    
