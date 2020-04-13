@@ -11,8 +11,18 @@ Code cheat tất cả đề toán trên study.edu siêu đơn giản, ngắn g�
 * Trước tiên các bạn phải bắt buộc cài add-on này vào Chrome hoặc Cốc Cốc:
  https://chrome.google.com/webstore/detail/localstorage-manager/fkhoimdhngkiicbjobkinobjkoefhkap
 * Chú ý: Với đề toán lớp 12 thì dùng cách ở mục #1, còn đề lớp 10, 11 thì dùng ở cách ở mục #2.
- 
 
+## /#0/Làm những môn trừ môn Toán
+
+*Bước 1: Vào đề cần làm, ấn “Vào thi” ( chưa ấn “Bắt đầu làm bài” vội nhé). Tìm đề bạn đang làm trong file "Mã đề các môn" rồi copy code bên trong.
+   
+*Bước 2: Chuyển sang tab đang làm bài, mở add-on LocalStorage đã cài ở góc trên bên phải, ấn nút “Add” -> cửa sổ nhập code đầu tiên sẽ hiện lên “Key:” -> Nhập vào: “ans” rồi ấn OK -> cửa sổ nhập code “Value:” hiện ra -> Nhập code ở bước 1 và ấn OK.
+   
+*Bước 3: Ấn “Bắt đầu làm bài” để vào làm bài thi, F12 -> Console -> sau đó nhập code trong file pickRightAnswer2.js rồi Enter.
+
+Lưu ý: Code này dùng với môn Sinh và Hóa sẽ cho bạn điểm khoảng từ 8,8 -> 9,8. Với các môn Sử, Anh, Địa, GDCD thì sẽ cho bạn điểm 10, vì vậy khi làm mấy đề đó nếu bạn muốn điểm thấp hơn 10 thì chỉ cần khoanh lại mấy câu sau khi chạy code là đc, còn Sinh và Hóa thì k cần khoanh lại.
+
+ 
 ## /#1/ Đề lớp 12 (folder Mã đề toán):
 
 *Bước 1: Vào đề thi cần làm, chọn Vào thi, xem mã đề của bạn là gì rồi tìm trong folder "Mã đề toán", mở file mã đề lên rồi copy code bên trong.
