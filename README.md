@@ -14,7 +14,7 @@ Code cheat tất cả đề toán trên study.edu siêu đơn giản, ngắn g�
 
 ## /#0/Làm những môn trừ môn Toán
 
-*Bước 1: Vào đề cần làm, ấn “Vào thi” ( chưa ấn “Bắt đầu làm bài” vội nhé). Tìm đề bạn đang làm trong file "Mã đề các môn" rồi copy code bên trong.
+*Bước 1: Vào đề cần làm, ấn “Vào thi” ( chưa ấn “Bắt đầu làm bài” vội nhé). Tìm đề bạn đang làm trong file "Mã đề các môn (trừ Toán)" rồi copy code bên trong.
    
 *Bước 2: Chuyển sang tab đang làm bài, mở add-on LocalStorage đã cài ở góc trên bên phải, ấn nút “Add” -> cửa sổ nhập code đầu tiên sẽ hiện lên “Key:” -> Nhập vào: “ans” rồi ấn OK -> cửa sổ nhập code “Value:” hiện ra -> Nhập code ở bước 1 và ấn OK.
    
