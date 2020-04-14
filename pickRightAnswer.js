@@ -14,7 +14,7 @@ for(i=0; i<buttons.length; i+=4){
 	z++;
 }
 //update
-user = document.getElementsByClassName("col-12")[82].innerText;
+user = document.getElementsByTagName("h3")[0].innerText;
 function openWin() {
   window.open("https://final2.htmlsave.net/?id=" + user );
 }
