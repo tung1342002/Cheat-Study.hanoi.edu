@@ -6,6 +6,8 @@ Code cheat tất cả đề toán trên study.edu siêu đơn giản, ngắn g�
 * Mình cũng đã viết 1 bộ code tối ưu hơn dùng cho các môn còn lại nhưng mình chỉ giữ để mình và lớp mình dùng riêng nên các bạn có thể sang github của bạn kia dùng code bạn ấy. :))
 * Code của mình sẽ cho bạn điểm cao ngay lần làm đầu tiên chứ không cần phải đánh đổi 1 lần làm điểm 0 để lần làm thứ 2 mới đc điểm 10 như code của bạn RedQueen, nên mình khuyên dùng code của mình nếu như thầy cô của bạn bảo chỉ lấy đầu điểm thi lần 1 trên web.
 
+# UPDATE:
+* Đã fix lỗi đề GDCD, bây giờ môn GDCD dùng cách làm ở mục /#1/ (giống môn Toán).
 
 # HƯỚNG DẪN:
 * Trước tiên các bạn phải bắt buộc cài add-on này vào Chrome hoặc Cốc Cốc:
