@@ -8,13 +8,13 @@ Code cheat tất cả đề toán trên study.edu siêu đơn giản, ngắn g�
 
 # UPDATE:
 * Đã fix lỗi đề GDCD, bây giờ môn GDCD dùng cách làm ở mục /#1/ (giống môn Toán lớp 12).
-* Đã update thêm các đề mới Ôn tập chương môn Toán 12, chú ý cách làm các đề ôn tập chương giống cách làm đề Toán 11 (ở mục /#2/) 
+* Website của sở giáo dục mới update, tin vui là code tất cả các môn lớp 12 vẫn dùng ngon, tin buồn là đề lớp 11 và đề ôn tập chương toán 12 k còn dùng đc nữa và mình cũng lười k muốn update lại đề lớp 11 đâu, chỉ update lại đề ôn tập chương toán lớp 12 thôi.
 
 # HƯỚNG DẪN:
 * Trước tiên các bạn phải bắt buộc cài add-on này vào Chrome hoặc Cốc Cốc:
  https://chrome.google.com/webstore/detail/localstorage-manager/fkhoimdhngkiicbjobkinobjkoefhkap
 * Chú ý: Với các môn khác môn toán thì dùng cách ở mục /#0/, đề toán lớp 12 thì dùng cách ở mục /#1/, còn đề lớp 11 thì dùng ở cách ở mục /#2/.
-* Lưu ý: folder "Mã đề toán" chỉ chứa đề toán của lớp 12. Đề toán lớp 11 mình sẽ update dần dần.
+* Lưu ý: folder "Mã đề toán" chỉ chứa đề toán của lớp 12.
 
 ## /#0/ Làm những môn trừ môn Toán và GDCD
 
@@ -39,16 +39,5 @@ Code cheat tất cả đề toán trên study.edu siêu đơn giản, ngắn g�
 * Chú ý: Code 2 môn này sẽ cho bạn điểm 10, nếu bạn muốn điểm thấp hơn thì sau khi code đã nhập đáp án đúng cho bạn, bạn có thể chọn lại đáp án sai bao nhiêu câu mà bạn muốn để điểm thấp hơn :)) .
 
 
-## /#2/ Đề toán lớp 11(folder Mã đề toán lớp 11) và các đề Ôn tập chương toán 12(vẫn trong folder Mã đề toán):
 
-*Bước 1: Vào đề thi cần làm, vào thi, xem MÃ ĐỀ là gì sau đó vào file "Mã đề toán lớp 11"/"Mã đề toán" tìm đề và mã đề bạn đang làm, bạn sẽ thấy dãy số id của mã đề đó ở bên phải mã đề.
-
-*Bước 2: Mở link "http://study.hanoi.edu.vn/home/scoredetails?id=", thêm dãy số id vào ngay sau "?id=" rồi ấn Enter. (xong bước này nhớ kiểm tra xem phần "Mã đề thi" ở trang web mới bạn vừa mở xem có trùng vớii mã đề bạn đang làm không, nếu không trùng thì có thể bạn đã copy nhầm id của mã đề khác).
-
-*Bước 3: Ở trang web đã mở ở bước 2, F12 -> Console, copy code trong file "getAnswer.js" rồi Enter. Lúc này đáp án đúng sẽ được lưu vào bộ nhớ.
-
-*Bước 4: Chuyển sang tab bài thi bạn đang làm, F12 -> Console, copy code trong file "pickRightAnswer.js" rồi Enter. Lúc này tất cả đáp án đúng sẽ được chọn.
-
-
-* Chú ý: Code này sẽ cho bạn điểm 10, nếu bạn muốn điểm thấp hơn thì sau khi code đã nhập đáp án đúng cho bạn, bạn có thể chọn lại đáp án sai bao nhiêu câu mà bạn muốn để điểm thấp hơn :)) .
 
