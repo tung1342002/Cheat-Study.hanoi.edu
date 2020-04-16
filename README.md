@@ -8,6 +8,7 @@ Code cheat tất cả đề toán trên study.edu siêu đơn giản, ngắn g�
 
 # UPDATE:
 * Đã fix lỗi đề GDCD, bây giờ môn GDCD dùng cách làm ở mục /#1/ (giống môn Toán lớp 12).
+* Đã update thêm các đề mới Ôn tập chương môn Toán 12, chú ý cách làm các đề ôn tập chương giống cách làm đề Toán 11 (ở mục /#2/) 
 
 # HƯỚNG DẪN:
 * Trước tiên các bạn phải bắt buộc cài add-on này vào Chrome hoặc Cốc Cốc:
@@ -27,7 +28,7 @@ Code cheat tất cả đề toán trên study.edu siêu đơn giản, ngắn g�
 * Chú ý: Có thể có vài đề mà code không tự điền đáp án 1 vài câu do cấu trúc đề hơi lỗi chút, chạy code xong các bạn nhớ kiểm tra lại xem các câu đã được điền hết chưa nhé.
 
  
-## /#1/ Đề toán lớp 12 (folder Mã đề toán) và GDCD:
+## /#1/ Đề toán lớp 12 các đề Ôn THPT (folder Mã đề toán) và GDCD:
 
 *Bước 1: Vào đề thi cần làm, chọn Vào thi, xem mã đề của bạn là gì rồi tìm trong folder "Mã đề toán", mở file mã đề lên rồi copy code bên trong.
 
@@ -38,9 +39,9 @@ Code cheat tất cả đề toán trên study.edu siêu đơn giản, ngắn g�
 * Chú ý: Nếu bạn muốn điểm thấp hơn thì sau khi code đã nhập đáp án đúng cho bạn, bạn có thể chọn lại đáp án sai bao nhiêu câu mà bạn muốn để điểm thấp hơn :)) .
 
 
-## /#2/ Đề toán lớp 11:
+## /#2/ Đề toán lớp 11(folder Mã đề toán lớp 11) và các đề Ôn tập chương toán 12(vẫn trong folder Mã đề toán):
 
-*Bước 1: Vào đề thi cần làm, vào thi, xem mã đề là gì sau đó vào file "Mã đề toán lớp 11" để tìm đề, vào file "TestID.txt", tìm mã đề bạn đang làm, bạn sẽ thấy id của mã đề đó ở bên phải mã đề.
+*Bước 1: Vào đề thi cần làm, vào thi, xem MÃ ĐỀ là gì sau đó vào file "Mã đề toán lớp 11"/"Mã đề toán" tìm đề và mã đề bạn đang làm, bạn sẽ thấy dãy số id của mã đề đó ở bên phải mã đề.
 
 *Bước 2: Mở link "http://study.hanoi.edu.vn/home/scoredetails?id=", thêm dãy số id vào ngay sau "?id=" rồi ấn Enter. (xong bước này nhớ kiểm tra xem phần "Mã đề thi" ở trang web mới bạn vừa mở xem có trùng vớii mã đề bạn đang làm không, nếu không trùng thì có thể bạn đã copy nhầm id của mã đề khác).
 
