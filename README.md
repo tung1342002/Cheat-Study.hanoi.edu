@@ -24,8 +24,8 @@ Code cheat tất cả đề toán trên study.edu siêu đơn giản, ngắn g�
    
 *Bước 3: Ấn “Bắt đầu làm bài” để vào làm bài thi, F12 -> Console -> sau đó nhập code trong file pickRightAnswer2.js rồi Enter.
 
-* Lưu ý: Code này dùng với môn Sinh và Hóa sẽ cho bạn điểm khoảng từ 8,8 -> 9,8. Với các môn Sử, Anh, Địa, GDCD thì sẽ cho bạn điểm 10 (đa số là vậy), vì vậy khi làm mấy đề đó nếu bạn muốn điểm thấp hơn 10 thì chỉ cần khoanh lại mấy câu sau khi chạy code là đc, còn Sinh và Hóa thì k cần khoanh lại.
-* Chú ý: Có thể có vài đề mà code không tự điền đáp án 1 vài câu do cấu trúc đề hơi lỗi chút, chạy code xong các bạn nhớ kiểm tra lại xem các câu đã được điền hết chưa nhé.
+* Lưu ý: Code này sẽ cho bạn điểm khoảng từ 8,8 -> 9,8 random nên yên tâm k cần khoang lại câu.
+* Chú ý: Có thể có vài đề mà code không tự điền đáp án 1 vài câu do cấu trúc đề hơi lỗi chút, chạy code xong nhớ kiểm tra lại xem các câu đã được điền hết chưa nhé.
 
  
 ## /#1/ Đề toán lớp 12 các đề Ôn THPT (folder Mã đề toán) và GDCD:
@@ -36,7 +36,7 @@ Code cheat tất cả đề toán trên study.edu siêu đơn giản, ngắn g�
 
 *Bước 3: Ở trang làm bài thi, các bạn ấn F12 -> Console rồi nhập code trong file pickRightAnswer.js vào rồi ấn Enter, lúc này code sẽ tự điền hết đáp án đúng cho bạn.
  
-* Chú ý: Nếu bạn muốn điểm thấp hơn thì sau khi code đã nhập đáp án đúng cho bạn, bạn có thể chọn lại đáp án sai bao nhiêu câu mà bạn muốn để điểm thấp hơn :)) .
+* Chú ý: Code 2 môn này sẽ cho bạn điểm 10, nếu bạn muốn điểm thấp hơn thì sau khi code đã nhập đáp án đúng cho bạn, bạn có thể chọn lại đáp án sai bao nhiêu câu mà bạn muốn để điểm thấp hơn :)) .
 
 
 ## /#2/ Đề toán lớp 11(folder Mã đề toán lớp 11) và các đề Ôn tập chương toán 12(vẫn trong folder Mã đề toán):
@@ -50,5 +50,5 @@ Code cheat tất cả đề toán trên study.edu siêu đơn giản, ngắn g�
 *Bước 4: Chuyển sang tab bài thi bạn đang làm, F12 -> Console, copy code trong file "pickRightAnswer.js" rồi Enter. Lúc này tất cả đáp án đúng sẽ được chọn.
 
 
-* Chú ý: Nếu bạn muốn điểm thấp hơn thì sau khi code đã nhập đáp án đúng cho bạn, bạn có thể chọn lại đáp án sai bao nhiêu câu mà bạn muốn để điểm thấp hơn :)) .
+* Chú ý: Code này sẽ cho bạn điểm 10, nếu bạn muốn điểm thấp hơn thì sau khi code đã nhập đáp án đúng cho bạn, bạn có thể chọn lại đáp án sai bao nhiêu câu mà bạn muốn để điểm thấp hơn :)) .
 
