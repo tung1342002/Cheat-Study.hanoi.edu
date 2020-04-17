@@ -13,7 +13,7 @@ Code cheat tất cả đề trên study.edu siêu đơn giản, ngắn gọn fro
 # HƯỚNG DẪN:
 * Trước tiên các bạn phải bắt buộc cài add-on này vào Chrome hoặc Cốc Cốc:
  https://chrome.google.com/webstore/detail/localstorage-manager/fkhoimdhngkiicbjobkinobjkoefhkap
-* Chú ý: Với các môn khác môn toán lớp 12 thì dùng cách ở mục /#0/, đề toán lớp 12 thì dùng cách ở mục /#1/. Code dùng cho mọi đề thì dùng cách 2.
+* Chú ý: Với các môn khác môn toán lớp 12 thì dùng cách ở mục /#0/, đề toán lớp 12 thì dùng cách ở mục /#1/ ở Cách 1. Code dùng cho mọi đề thì dùng Cách 2.
 * Lưu ý: folder "Mã đề toán" chỉ chứa đề toán của lớp 12.
 
 ## CÁCH 1:
