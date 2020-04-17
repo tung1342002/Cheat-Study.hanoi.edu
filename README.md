@@ -18,7 +18,7 @@ Code cheat tất cả đề trên study.edu siêu đơn giản, ngắn gọn fro
 
 ## CÁCH 1:
 
-## /#0/ Làm những môn trừ môn Toán và GDCD
+## /#0/ Làm những môn trừ môn Toán và GDCD lớp 12:
 
 *Bước 1: Vào đề cần làm, ấn “Vào thi” ( chưa ấn “Bắt đầu làm bài” vội nhé). Tìm đề bạn đang làm trong file "Mã đề các môn (trừ Toán)" rồi copy code bên trong.
    
@@ -30,7 +30,7 @@ Code cheat tất cả đề trên study.edu siêu đơn giản, ngắn gọn fro
 * Chú ý: Có thể có vài đề mà code không tự điền đáp án 1 vài câu do cấu trúc đề hơi lỗi chút, chạy code xong nhớ kiểm tra lại xem các câu đã được điền hết chưa nhé.
 
  
-## /#1/ Đề toán lớp 12 các đề Ôn THPT (folder Mã đề toán) và GDCD:
+## /#1/ Đề toán lớp 12 các đề Ôn THPT (folder Mã đề toán) và GDCD lớp 12:
 
 *Bước 1: Vào đề thi cần làm, chọn Vào thi, xem mã đề của bạn là gì rồi tìm trong folder "Mã đề toán", mở file mã đề lên rồi copy code bên trong.
 
@@ -41,7 +41,7 @@ Code cheat tất cả đề trên study.edu siêu đơn giản, ngắn gọn fro
 * Chú ý: Code 2 môn này sẽ cho bạn điểm 10, nếu bạn muốn điểm thấp hơn thì sau khi code đã nhập đáp án đúng cho bạn, bạn có thể chọn lại đáp án sai bao nhiêu câu mà bạn muốn để điểm thấp hơn :)) .
 
 
-## CÁCH 2: (dùng cho tất cả các đề các môn)
+## CÁCH 2(dùng cho tất cả các đề các môn):
 
 *Bước 1: Vào đề thi cần làm, vào thi, CHỈ CHỌN ĐÁP ÁN CÂU 1 (đúng hay sai cũng được), nộp bài.
 
@@ -50,7 +50,7 @@ Code cheat tất cả đề trên study.edu siêu đơn giản, ngắn gọn fro
 *Bước 3: Ấn "Quay lại kì thi", vào thi, bắt đầu làm bài, F12->Console, copy code trong file pickRightAnswer3.js rồi Enter. Lúc này các đáp án đúng đã đc chọn.
 
 
-## CÁCH 2.2: (cho mấy bạn có nick clone và k muốn bị điểm 0 lần đầu)(cần dùng add-on)
+## CÁCH 2.2(cho mấy bạn có nick clone và k muốn bị điểm 0 lần đầu)(cần dùng add-on):
 
 *Bước 1: Mở Chrome/Cốc cốc lên, đăng nhập nick mình và bật ẩn danh Ctrl+Shift+N để đăng nhập nick clone.
 
