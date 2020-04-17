@@ -3,17 +3,20 @@ Code cheat tất cả đề toán trên study.edu siêu đơn giản, ngắn g�
 
 * Mới update thêm đề các môn khác.
 * Trước mình cũng đã có một bạn tên là RedQueen làm code cheat đáp án web của sở trên github (https://github.com/LetterC67/Cheat-study.hanoi.edu.vn), nhưng do khối của bạn k có môn toán nên code của bạn ấy k áp dụng đc với các đề toán do đề toán có cấu trúc riêng, vì thế mình đã tự code thêm vài dòng code nho nhỏ để giúp các bạn làm toán 1 cách nhanh vcl ;D.
-* Code của mình sẽ cho bạn điểm cao ngay lần làm đầu tiên chứ không cần phải đánh đổi 1 lần làm điểm 0 để lần làm thứ 2 mới đc điểm 10 như code của bạn RedQueen, nên mình khuyên dùng code của mình nếu như thầy cô của bạn bảo chỉ lấy đầu điểm thi lần 1 trên web.
+* Code của mình sẽ cho bạn điểm cao ngay lần làm đầu tiên chứ không cần phải đánh đổi 1 lần làm điểm 0 để lần làm thứ 2 mới đc điểm 10 như code của bạn RedQueen, nên mình khuyên dùng code của mình nếu như thầy cô của bạn bảo chỉ lấy đầu điểm thi lần 1 trên web (lớp 12 thôi nhé)
 
 # UPDATE:
 * Đã fix lỗi đề GDCD, bây giờ môn GDCD dùng cách làm ở mục /#1/ (giống môn Toán lớp 12).
 * Website của sở giáo dục mới update, tin vui là code tất cả các môn lớp 12 vẫn dùng ngon, tin buồn là đề lớp 11 và đề ôn tập chương toán 12 k còn dùng đc nữa và mình cũng lười k muốn update lại đề lớp 11 đâu, chỉ update lại đề ôn tập chương toán lớp 12 thôi.
+* Update thêm code dùng chung cho TẤT CẢ CÁC ĐỀ, lớp nào cũng dùng được, môn nào cũng được ở mục Cách 2, tuy nhiên ở cách này thì các bạn phải lấy 1 điểm 0 vào lần thì đầu tiên và đến lần thi thứ 2 mới đc 10 điểm.
 
 # HƯỚNG DẪN:
 * Trước tiên các bạn phải bắt buộc cài add-on này vào Chrome hoặc Cốc Cốc:
  https://chrome.google.com/webstore/detail/localstorage-manager/fkhoimdhngkiicbjobkinobjkoefhkap
-* Chú ý: Với các môn khác môn toán thì dùng cách ở mục /#0/, đề toán lớp 12 thì dùng cách ở mục /#1/, còn đề lớp 11 thì dùng ở cách ở mục /#2/.
+* Chú ý: Với các môn khác môn toán lớp 12 thì dùng cách ở mục /#0/, đề toán lớp 12 thì dùng cách ở mục /#1/.
 * Lưu ý: folder "Mã đề toán" chỉ chứa đề toán của lớp 12.
+
+## CÁCH 1:
 
 ## /#0/ Làm những môn trừ môn Toán và GDCD
 
@@ -38,5 +41,19 @@ Code cheat tất cả đề toán trên study.edu siêu đơn giản, ngắn g�
 * Chú ý: Code 2 môn này sẽ cho bạn điểm 10, nếu bạn muốn điểm thấp hơn thì sau khi code đã nhập đáp án đúng cho bạn, bạn có thể chọn lại đáp án sai bao nhiêu câu mà bạn muốn để điểm thấp hơn :)) .
 
 
+## CÁCH 2 (dùng cho tất cả các đề các môn)
+
+*Bước 1: Vào đề thi cần làm, vào thi, CHỈ CHỌN ĐÁP ÁN CÂU 1 (đúng hay sai cũng được), nộp bài.
+*Bước 2: Mở "Chi tiết bài làm", F12->Console, copy code trong file getAnsQues.js rồi Enter.
+*Bước 3: Ấn "Quay lại kì thi", vào thi, bắt đầu làm bài, F12->Console, copy code trong file pickRightAnswer3.js rồi Enter. Lúc này các đáp án đúng đã đc chọn.
+
+
+## Cách 2.2 (cho mấy bạn có nick clone và k muốn bị điểm 0 lần đầu)(cần dùng add-on)
+
+*Bước 1: Mở Chrome/Cốc cốc lên, đăng nhập nick mình và bật ẩn danh Ctrl+Shift+N để đăng nhập nick clone.
+*Bước 2: Vào nick clone, chọn đề thi cần làm, CHỈ LÀM CÂU 1 (đúng hay sai đều đc), nộp bài, mở "Chi tiết bài làm", F12->console, copy code trong file getAnsQues.js rồi Enter.
+*Bước 3: Mở add-on localStorageManager, bạn sẽ thấy 1 hàng có Name là "ans", ấn vào hình mũi tên ở cuối hàng để mở cửa sổ Value, copy hết code bên trong (bắt đầu copy từ dấu "[" đến hết dấu "]"), đây chính là các giá trị câu hỏi và đáp án từng câu của đề.
+*Bước 4: Mở nick mình, vào đề thi cần làm, bắt đầu làm bài, mở add-on localStorageManager -> chọn "Add" -> nhập Key là "ans" rồi ấn OK  -> nhập Value là code đã copy ở Bước 3 rồi ấn OK.
+*Bước 5: F12 -> Console, copy code trong file pickRightAnswer3.js rồi Enter. Lúc này các đáp án đúng đã đc chọn.
 
 
