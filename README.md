@@ -41,19 +41,25 @@ Code cheat tất cả đề trên study.edu siêu đơn giản, ngắn gọn fro
 * Chú ý: Code 2 môn này sẽ cho bạn điểm 10, nếu bạn muốn điểm thấp hơn thì sau khi code đã nhập đáp án đúng cho bạn, bạn có thể chọn lại đáp án sai bao nhiêu câu mà bạn muốn để điểm thấp hơn :)) .
 
 
-## CÁCH 2 (dùng cho tất cả các đề các môn)
+## CÁCH 2: (dùng cho tất cả các đề các môn)
 
 *Bước 1: Vào đề thi cần làm, vào thi, CHỈ CHỌN ĐÁP ÁN CÂU 1 (đúng hay sai cũng được), nộp bài.
+
 *Bước 2: Mở "Chi tiết bài làm", F12->Console, copy code trong file getAnsQues.js rồi Enter.
+
 *Bước 3: Ấn "Quay lại kì thi", vào thi, bắt đầu làm bài, F12->Console, copy code trong file pickRightAnswer3.js rồi Enter. Lúc này các đáp án đúng đã đc chọn.
 
 
-## Cách 2.2 (cho mấy bạn có nick clone và k muốn bị điểm 0 lần đầu)(cần dùng add-on)
+## CÁCH 2.2: (cho mấy bạn có nick clone và k muốn bị điểm 0 lần đầu)(cần dùng add-on)
 
 *Bước 1: Mở Chrome/Cốc cốc lên, đăng nhập nick mình và bật ẩn danh Ctrl+Shift+N để đăng nhập nick clone.
+
 *Bước 2: Vào nick clone, chọn đề thi cần làm, CHỈ LÀM CÂU 1 (đúng hay sai đều đc), nộp bài, mở "Chi tiết bài làm", F12->console, copy code trong file getAnsQues.js rồi Enter.
+
 *Bước 3: Mở add-on localStorageManager, bạn sẽ thấy 1 hàng có Name là "ans", ấn vào hình mũi tên ở cuối hàng để mở cửa sổ Value, copy hết code bên trong (bắt đầu copy từ dấu "[" đến hết dấu "]"), đây chính là các giá trị câu hỏi và đáp án từng câu của đề.
+
 *Bước 4: Mở nick mình, vào đề thi cần làm, bắt đầu làm bài, mở add-on localStorageManager -> chọn "Add" -> nhập Key là "ans" rồi ấn OK  -> nhập Value là code đã copy ở Bước 3 rồi ấn OK.
+
 *Bước 5: F12 -> Console, copy code trong file pickRightAnswer3.js rồi Enter. Lúc này các đáp án đúng đã đc chọn.
 
 
