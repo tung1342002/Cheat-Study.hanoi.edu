@@ -1,4 +1,4 @@
-# Cheat-Math-Study.edu
+# Chea-Study.edu
 Code cheat tất cả đề trên study.edu siêu đơn giản, ngắn gọn from Quân Đặng lớp 12 with luv <3
 
 * Ban đầu mình chỉ làm code riêng cho các đề toán, giờ mới update thêm đề các môn khác luôn cho các bạn :)).
