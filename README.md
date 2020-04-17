@@ -24,7 +24,7 @@ Code cheat tất cả đề trên study.edu siêu đơn giản, ngắn gọn fro
    
 *Bước 2: Chuyển sang tab đang làm bài, mở add-on LocalStorage đã cài ở góc trên bên phải, ấn nút “Add” -> cửa sổ nhập code đầu tiên sẽ hiện lên “Key:” -> Nhập vào: “ans” rồi ấn OK -> cửa sổ nhập code “Value:” hiện ra -> Nhập code ở bước 1 và ấn OK.
    
-*Bước 3: Ấn “Bắt đầu làm bài” để vào làm bài thi, F12 -> Console -> sau đó nhập code trong file pickRightAnswer2.js rồi Enter.
+*Bước 3: Ấn “Bắt đầu làm bài” để vào làm bài thi, F12 -> Console -> sau đó nhập code trong file pickRightAnswer.js rồi Enter.
 
 * Lưu ý: Code này sẽ cho bạn điểm khoảng từ 8,8 -> 9,8 random nên yên tâm k cần khoanh lại câu.
 * Chú ý: Có thể có vài đề mà code không tự điền đáp án 1 vài câu do cấu trúc đề hơi lỗi chút, chạy code xong nhớ kiểm tra lại xem các câu đã được điền hết chưa nhé.
@@ -36,7 +36,7 @@ Code cheat tất cả đề trên study.edu siêu đơn giản, ngắn gọn fro
 
 *Bước 2: Mở add-on LocalStorageManager, chọn "Add", trước tiên ở cửa sổ nhập Key các bạn nhập giá trị "ans" rồi ấn OK. Sau đó đến cửa sổ nhập Value các bạn copy code ở bước 1 vào rồi ấn OK.
 
-*Bước 3: Ở trang làm bài thi, các bạn ấn F12 -> Console rồi nhập code trong file pickRightAnswer.js vào rồi ấn Enter, lúc này code sẽ tự điền hết đáp án đúng cho bạn.
+*Bước 3: Ở trang làm bài thi, các bạn ấn F12 -> Console rồi nhập code trong file pickRightAnswer2.js vào rồi ấn Enter, lúc này code sẽ tự điền hết đáp án đúng cho bạn.
  
 * Chú ý: Code 2 môn này sẽ cho bạn điểm 10, nếu bạn muốn điểm thấp hơn thì sau khi code đã nhập đáp án đúng cho bạn, bạn có thể chọn lại đáp án sai bao nhiêu câu mà bạn muốn để điểm thấp hơn :)) .
 
