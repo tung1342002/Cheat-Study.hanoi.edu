@@ -51,6 +51,7 @@ Code cheat tất cả đề trên study.edu siêu đơn giản, ngắn gọn fro
 
 
 ## CÁCH 2.2(cho mấy bạn có nick clone và k muốn bị điểm 0 lần đầu)(cần dùng add-on):
+* Chú ý: Trước khi thực hiện, mở chrome://extensions/, mở "Chi tiết" của extension localStorageManager, bật "Cho phép ở chế độ ẩn danh".
 
 *Bước 1: Mở Chrome/Cốc cốc lên, đăng nhập nick mình và bật ẩn danh Ctrl+Shift+N để đăng nhập nick clone.
 
