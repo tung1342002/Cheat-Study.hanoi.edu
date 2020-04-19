@@ -22,7 +22,7 @@ Code cheat tất cả đề trên study.edu siêu đơn giản, ngắn gọn fro
    
 *Bước 3: Ấn “Bắt đầu làm bài” để vào làm bài thi, F12 -> Console -> sau đó nhập code trong file pickRightAnswer.js rồi Enter.
 
-* Lưu ý: Code này sẽ cho bạn điểm khoảng từ 8,8 -> 9,8 random nên yên tâm k cần khoanh lại câu.
+* Lưu ý: Code này sẽ cho bạn điểm khoảng từ 8,8 -> 9,8 random nên yên tâm k cần khoanh lại câu. Muốn đc 10 thì làm cách 2 hoặc 2.2.
 * Chú ý: Có thể có vài đề mà code không tự điền đáp án 1 vài câu do cấu trúc đề hơi lỗi chút, chạy code xong nhớ kiểm tra lại xem các câu đã được điền hết chưa nhé.
 
  
