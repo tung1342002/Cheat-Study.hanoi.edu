@@ -1,4 +1,5 @@
 [
+    "Can I join you?",
     "position                                   ",
     "Oh, what a pity ",
     "Being Educated Doesn’t require School. ",
@@ -47,6 +48,5 @@
     "employees",
     "How the energy of sunlight is used ",
     "services                                    ",
-    "made                                   ",
-    "Can I join you?"
+    "made                                   "
 ]
