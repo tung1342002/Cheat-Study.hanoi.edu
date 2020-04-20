@@ -14,6 +14,7 @@ Code cheat tất cả đề trên study.edu siêu đơn giản, ngắn gọn fro
 * Lưu ý: folder "Mã đề toán" chỉ chứa đề toán của lớp 12.
 
 ## CÁCH 1(được 10 ngay lần làm đầu tiên):
+* Ở phần cách 1, có 1 số đề Sinh, Hóa có những câu có nội dung đáp án trùng nhau nên code ở cách 1 sẽ không chọn đúng 1 vài câu, mình đã fix lỗi này ở code của cách 2 và 2.2, nên những bạn nào muốn đc 10 hóa sinh thì nên làm theo cách 2 hoặc 2.2.
 
 ## /#0/ Làm những môn trừ môn Toán và GDCD lớp 12:
 
