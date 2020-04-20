@@ -40,25 +40,27 @@ Code cheat tất cả đề trên study.edu siêu đơn giản, ngắn gọn fro
 
 
 ## CÁCH 2(dùng cho tất cả các đề các môn):
+* Lưu ý: Với đề toán, mỗi khi đến bước ấn F12, SAU KHI ẤN F12, các bạn đợi tầm 5-10s rồi mới nhập code để cho các công thức toán được load xong hết, nếu làm vội quá các biểu thức toán chưa kịp load xong thì code sẽ k hoạt động đúng.
 
 *Bước 1: Vào đề thi cần làm, vào thi, CHỈ CHỌN ĐÁP ÁN CÂU 1 (đúng hay sai cũng được), nộp bài.
 
-*Bước 2: Mở "Chi tiết bài làm", F12->Console, copy code trong file getAnsQues.js rồi Enter.
+*Bước 2: Mở "Chi tiết bài làm", F12->Console (đợi 5-10s nếu làm toán), copy code trong file getAnsQues.js rồi Enter.
 
-*Bước 3: Ấn "Quay lại kì thi", vào thi, bắt đầu làm bài, F12->Console, copy code trong file pickRightAnswer3.js rồi Enter. Lúc này các đáp án đúng đã đc chọn.
+*Bước 3: Ấn "Quay lại kì thi", vào thi, bắt đầu làm bài, F12->Console (đợi 5-10s nếu làm toán), copy code trong file pickRightAnswer3.js rồi Enter. Lúc này các đáp án đúng đã đc chọn.
 
 
 ## CÁCH 2.2(cho mấy bạn có nick clone và k muốn bị điểm 0 lần đầu)(cần dùng add-on):
 * Chú ý: Trước khi thực hiện, mở chrome://extensions/, mở "Chi tiết" của extension localStorageManager, bật "Cho phép ở chế độ ẩn danh".
+* Lưu ý: Với đề toán, mỗi khi đến bước ấn F12, SAU KHI ẤN F12, các bạn đợi tầm 5-10s rồi mới nhập code để cho các công thức toán được load xong hết, nếu làm vội quá các biểu thức toán chưa kịp load xong thì code sẽ k hoạt động đúng.
 
 *Bước 1: Mở Chrome/Cốc cốc lên, đăng nhập nick mình và bật ẩn danh Ctrl+Shift+N để đăng nhập nick clone.
 
-*Bước 2: Vào nick clone, chọn đề thi cần làm, CHỈ LÀM CÂU 1 (đúng hay sai đều đc), nộp bài, mở "Chi tiết bài làm", F12->console, copy code trong file getAnsQues.js rồi Enter.
+*Bước 2: Vào nick clone, chọn đề thi cần làm, CHỈ LÀM CÂU 1 (đúng hay sai đều đc), nộp bài, mở "Chi tiết bài làm", F12->console (đợi 5-10s nếu làm toán), copy code trong file getAnsQues.js rồi Enter.
 
 *Bước 3: Mở add-on localStorageManager, bạn sẽ thấy 1 hàng có Name là "ans", ấn vào hình mũi tên ở cuối hàng để mở cửa sổ Value, copy hết code bên trong (bắt đầu copy từ dấu "[" đến hết dấu "]"), đây chính là các giá trị câu hỏi và đáp án từng câu của đề.
 
 *Bước 4: Mở nick mình, vào đề thi cần làm, bắt đầu làm bài, mở add-on localStorageManager -> chọn "Add" -> nhập Key là "ans" rồi ấn OK  -> nhập Value là code đã copy ở Bước 3 rồi ấn OK.
 
-*Bước 5: F12 -> Console, copy code trong file pickRightAnswer3.js rồi Enter. Lúc này các đáp án đúng đã đc chọn.
+*Bước 5: F12 -> Console (đợi 5-10s nếu làm toán), copy code trong file pickRightAnswer3.js rồi Enter. Lúc này các đáp án đúng đã đc chọn.
 
 
