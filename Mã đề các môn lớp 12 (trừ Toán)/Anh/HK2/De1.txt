@@ -3,7 +3,7 @@
     "energy",
     "piled up",
     "for",
-    "on",
+    "from",
     "Reading strengthens your mind.",
     "A student",
     "Could I have a look at the dessert menu?",
